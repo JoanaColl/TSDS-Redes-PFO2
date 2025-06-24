@@ -11,6 +11,7 @@
         <li><a href="#requisitos-tec">Requisitos técnicos</a></li>
        </ul>
     <li><a href="#tecnologias">Tecnologías utilizadas</a></li>
+    <li><a href="#web">Web</a></li>
     <li><a href="#instrucciones">Instrucciones</a></li>
     <li><a href="#capturas">Capturas</a></li>
     <li><a href="#preguntas">Preguntas conceptuales</a>
@@ -63,6 +64,12 @@ Desarrolla un servidor que realiza lo siguiente:
 - Python 3.13.2
 - Flask, requests
 - SQLite
+<p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
+
+<!-- WEB -->
+<a name="web"></a>
+## 🌐 Web
+<a href="https://joanacoll.github.io/TSDS-Redes-PFO2/">Clic para ir al website</a> 👈
 <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 <!-- INSTRUCCIONES -->
